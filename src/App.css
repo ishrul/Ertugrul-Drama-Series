@@ -27,6 +27,17 @@
 .App-link {
   color: #61dafb;
 }
+/* body style start */
+
+.App {
+  background-image: url(https://wallpapercave.com/wp/wp3054676.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* body style end */
 
 @keyframes App-logo-spin {
   from {

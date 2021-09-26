@@ -1,0 +1,7 @@
+.cards-div {
+  width: 78%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 22%;
+  margin-top: 50px;
+}

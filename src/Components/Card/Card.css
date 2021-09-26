@@ -1,0 +1,40 @@
+.card {
+  background: #3c3b3f;
+  background: -webkit-linear-gradient(to right, #605c3c, #3c3b3f);
+  background: linear-gradient(to right, #605c3c, #3c3b3f);
+
+  width: 300px;
+  padding: 30px 0;
+  margin: 10px;
+  border-radius: 10px;
+  color: #e9e4f0;
+  box-shadow: 17px 20px 34px 10px rgba(151, 89, 89, 0.54);
+  -webkit-box-shadow: 17px 20px 34px 10px rgba(151, 89, 89, 0.54);
+  -moz-box-shadow: 17px 20px 34px 10px rgba(151, 89, 89, 0.54);
+}
+.card button {
+  background: #0f0c29;
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  color: white;
+  padding: 8px 25px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.shopping-cart {
+  margin-right: 10px;
+}
+.icon {
+  font-size: 25px;
+  margin: 15px;
+  color: #e6246e;
+}
+.button-div {
+  margin: auto;
+}
