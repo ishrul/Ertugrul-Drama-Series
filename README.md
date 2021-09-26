@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is about [Dirilis Ertugrul](https://github.com/facebook/create-react-app).
+This project is about [Dirilis Ertugrul](https://pensive-perlman-03cce7.netlify.app/).
 
 ## About Projects
 
